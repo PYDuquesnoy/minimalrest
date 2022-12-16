@@ -99,3 +99,6 @@ Explanation:
 In this example, we first create an HTTP client using the Client::new method provided by the actix_web crate. We then use the get method to send a GET request to the /hello path on the server.
 
 Once the request is complete, we print the response body using the println! macro. This will print the message "Hello, world!" that was sent by the server in the previous example.
+
+Note: 
+Aftewards, some changes needed....
